@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Demo
+
+Kindly use the [link](https://segment-task.web.app) for the demo.
 
 ## Available Scripts
 
